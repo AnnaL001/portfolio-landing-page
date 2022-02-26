@@ -63,6 +63,10 @@ SECTION: UTILITIES
   line-height: 1.8rem;
 }
 
+.text-button{
+  border: none;
+}
+
 /* =============================
 SECTION: NAVBAR
 ================================*/
@@ -172,6 +176,18 @@ SECTION: SERVICES
 section#services{
   background-color: rgba(1, 1, 8, 0.9);
   color: rgb(255, 255, 255);
+}
+
+/* =============================
+SECTION: WORK
+================================*/
+section#work{
+  background-color: rgb(1, 1, 8);
+  color: rgb(255, 255, 255);
+}
+
+section#work div.card{
+  background-color: rgb(1, 1, 8);
 }
 
 /* =============================
