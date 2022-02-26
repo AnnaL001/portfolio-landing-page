@@ -109,18 +109,18 @@ section.intro div.part-text button{
 /* =============================
 SECTION: MEDIA QUERIES
 ================================*/
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 578px) {
   /* =============================
     SECTION: UTILITIES
   ================================*/
   .text-bold {
     font-weight: 700;
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
 
   .text-semi-bold {
     font-weight: 600;
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .row{
@@ -130,12 +130,16 @@ SECTION: MEDIA QUERIES
   .col-12{
     margin-top: 1.5rem;
   }
+
+  main section{
+    padding: 2rem 0;
+  }
 }
 
 @media screen and (min-width: 577px) and (max-width: 1200px) {
   .text-bold {
     font-weight: 700;
-    font-size: 3rem;
+    font-size: 3.5rem;
   }
 
   .text-semi-bold {
