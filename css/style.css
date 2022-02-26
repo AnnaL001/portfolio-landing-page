@@ -2,6 +2,61 @@ body{
   font-family: 'Poppins', 'sans-serif';
 }
 
+/* =============================
+SECTION: UTILITIES
+================================*/
+.btn{
+  padding: 0.8rem 0.9rem;
+  border-radius: 50rem;
+}
+
+.btn-primary{
+  background-color: rgb(200, 118, 255);
+  border-color: rgb(200, 118, 255);
+}
+
+.btn-primary:hover{
+  background-color: rgba(200, 118, 255,0.9);
+  border-color: rgba(200, 118, 255, 0.9);
+}
+
+.btn-check:focus+.btn-primary,
+.btn-primary:focus {
+  background-color: rgb(200, 118, 255);
+  border-color: rgba(200, 118, 255, 0.9);
+  box-shadow: 0 0 0 0.25rem rgba(200, 118, 255, 0.5);
+}
+
+.btn-check:checked+.btn-primary,
+.btn-check:active+.btn-primary,
+.btn-primary:active,
+.btn-primary.active,
+.show>.btn-primary.dropdown-toggle {
+  background-color: rgb(200, 118, 255);
+  border-color: rgba(200, 118, 255, 0.8);
+}
+
+.btn-check:checked+.btn-primary:focus,
+.btn-check:active+.btn-primary:focus,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.show>.btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.25rem rgba(200, 118, 255, 0.5);
+}
+
+.text-bold{
+  font-weight: 700;
+  font-size: 4.5rem;
+}
+
+.text-semi-bold{
+  font-weight: 600;
+  font-size: 3rem;
+}
+
+/* =============================
+SECTION: NAVBAR
+================================*/
 nav.bg-nav{
   background-color: rgb(1,1,8);
 }
@@ -13,7 +68,7 @@ nav button.navbar-toggler{
 }
 
 nav ul.navbar-nav{
-  padding: 0 1.5rem;
+  padding: 0.5rem 3rem;
 }
 
 nav ul.navbar-nav li.nav-item {
@@ -26,6 +81,36 @@ nav ul.navbar-nav li.nav-item a.active{
   padding-left: 1rem;
   padding-right: 1rem;
   color: rgb(200, 118, 255)!important;
+}
+
+
+/* =============================
+SECTION: MAIN
+================================*/
+main section{
+  padding: 4rem 3rem;
+}
+
+/* =============================
+SECTION: INTRO
+================================*/
+section.intro{
+  background-color: rgb(1, 1, 8);
+  padding-top: 5srem;
+  padding-bottom: 0;
+  color: rgb(255,255,255);
+}
+
+section.intro div.part-text h1{
+  margin-top: 10rem;
+}
+
+section.intro div.part-text button{
+  margin: 2rem 0;
+}
+
+section.intro div.part-image img{
+  float: right;
 }
 
 
