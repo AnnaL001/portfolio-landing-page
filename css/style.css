@@ -1,3 +1,9 @@
 nav.bg-nav{
   background-color: rgb(1, 1, 8);
 }
+
+.navbar-toggler{
+  border-radius: 50% !important;
+  padding: 0.30rem 0.50rem !important;
+  font-size: 1.20rem !important;
+}
