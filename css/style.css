@@ -12,4 +12,9 @@ nav.bg-nav{
   padding: 0 1.5rem !important;
 }
 
+.navbar-nav li.nav-item {
+  margin-right: 1.5rem;
+}
+
+
 
