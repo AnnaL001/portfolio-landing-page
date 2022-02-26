@@ -151,7 +151,11 @@ SECTION: MEDIA QUERIES
   }
 
   main section{
-    padding: 2rem 0;
+    padding: 3rem 0;
+  }
+
+  section#about-me div.part-image img {
+    float: none;
   }
 }
 
