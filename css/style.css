@@ -54,11 +54,20 @@ SECTION: UTILITIES
   font-size: 3rem;
 }
 
+.text-medium{
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.para{
+  line-height: 1.8rem;
+}
+
 /* =============================
 SECTION: NAVBAR
 ================================*/
 nav.bg-nav{
-  background-color: rgb(1,1,8);
+  background-color: rgb(1, 1 ,8);
 }
 
 nav button.navbar-toggler{
@@ -76,7 +85,7 @@ nav ul.navbar-nav li.nav-item {
 }
 
 nav ul.navbar-nav li.nav-item a.active{
-  border: 1px solid rgb(200,118,255);
+  border: 1px solid rgb(200, 118, 255);
   border-radius: 50rem;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -88,24 +97,34 @@ nav ul.navbar-nav li.nav-item a.active{
 SECTION: MAIN
 ================================*/
 main section{
-  padding: 4rem 4rem;
+  padding: 4rem 0;
 }
 
 /* =============================
 SECTION: INTRO
 ================================*/
-section.intro{
+section#intro{
   background-color: rgb(1, 1, 8);
   padding-top: 4rem;
   padding-bottom: 0;
   color: rgb(255,255,255);
 }
 
-section.intro div.part-text button{
+section#intro div.part-text button{
   margin: 2rem 0;
 }
 
+/* =============================
+SECTION: ABOUT ME
+================================*/
+section#about-me{
+  background-color: rgba(1, 1, 8, 0.9);
+  color: rgb(255, 255, 255);
+}
 
+section#about-me div.part-image img{
+  float: left;
+}
 /* =============================
 SECTION: MEDIA QUERIES
 ================================*/
