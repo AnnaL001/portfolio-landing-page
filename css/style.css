@@ -22,7 +22,7 @@ nav ul.navbar-nav li.nav-item {
 
 nav ul.navbar-nav li.nav-item a.active{
   border: 1px solid rgb(200,118,255);
-  border-radius: 1.8rem;
+  border-radius: 50rem;
   padding-left: 1rem;
   padding-right: 1rem;
   color: rgb(200, 118, 255)!important;
