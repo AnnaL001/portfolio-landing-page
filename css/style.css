@@ -1,5 +1,5 @@
 nav.bg-nav{
-  background-color: rgb(1, 1, 8);
+  background-color: rgb(1,1,8);
 }
 
 nav button.navbar-toggler{
@@ -16,8 +16,12 @@ nav ul.navbar-nav li.nav-item {
   margin-right: 1.5rem;
 }
 
-nav ul.navbar li.nav-item a.active{
-
+nav ul.navbar-nav li.nav-item a.active{
+  border: 1px solid rgb(200,118,255);
+  border-radius: 1.8rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: rgb(200, 118, 255)!important;
 }
 
 
