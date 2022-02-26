@@ -127,6 +127,29 @@ section#about-me div.part-image img{
 }
 
 /* =============================
+SECTION: INTERESTS AND HOBBIES
+================================*/
+section#interests-hobbies{
+  background-color: rgba(1, 1, 8, 0.9);
+  color: rgb(255, 255, 255);
+}
+
+section#interests-hobbies div#interests-hobbies{
+  justify-content: center;
+}
+
+section#interests-hobbies div.hobby{
+  text-align: center;
+}
+
+section#interests-hobbies div.hobby i{
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 50%;
+  padding: 0.7rem;
+  font-size: 3rem;
+}
+
+/* =============================
 SECTION: MEDIA QUERIES
 ================================*/
 @media screen and (max-width: 578px) {
