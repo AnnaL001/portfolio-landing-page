@@ -152,24 +152,27 @@ section#interests-hobbies div.hobby i{
 /* =============================
 SECTION: SKILLS AND SERVICES
 ================================*/
-section#skills-and-services{
+section#skills{
   background-color: rgb(1, 1 ,8);
   color: rgb(255,255,255);
 }
 
-section#skills-and-services div.skill div.progress{
+section#skills div.skill div.progress{
   height: 1.5rem;
   border-radius: 50rem;
 }
 
-section#skills-and-services div.skill div.progress-bar{
+section#skills div.skill div.progress-bar{
   background-color: rgb(200, 118, 255);
 }
 
-section#skills-and-services div#services img{
-  margin: 10rem 5rem;
+/* =============================
+SECTION: SERVICES
+================================*/
+section#services{
+  background-color: rgba(1, 1, 8, 0.9);
+  color: rgb(255, 255, 255);
 }
-
 
 /* =============================
 SECTION: MEDIA QUERIES
@@ -192,7 +195,7 @@ SECTION: MEDIA QUERIES
     text-align: center;
   }
 
-  .col-12{
+  .col-12, .col-6{
     margin-top: 1.5rem;
   }
 
