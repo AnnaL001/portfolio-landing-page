@@ -6,8 +6,7 @@ The website entails detailed information regarding my qualifications such as edu
 ## Setup/Installation Requirements
 * Using a mobile/laptop device ensure you have internet access. 
 * Navigate to the link below via using browsers such as Chrome, Edge, Mozilla Firefox and Safari
-**Link to live site: (https://annal001.github.io/portfolio-landing-page/)
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+**Link to live site**: https://annal001.github.io/portfolio-landing-page/
 ## Technologies Used
 Frontend languages and framework such as:
 * HTML - For structuring elements in the web page such as images, text, buttons and links
