@@ -65,7 +65,14 @@ SECTION: UTILITIES
 
 .text-button{
   border: none;
+  background-color: rgb(1, 1 ,8);
+  color: white;
 }
+
+.text-button:hover{
+  color: rgb(200, 118, 255);
+}
+
 
 /* =============================
 SECTION: NAVBAR
@@ -189,6 +196,22 @@ section#work{
 section#work div.card{
   background-color: rgb(1, 1, 8);
 }
+
+section#work div.card{
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0.13rem 0.13rem rgba(255, 255, 255, 0.1);
+  z-index: 2;
+}
+
+section#work div.card h5.card-title {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+section#work div.card a.btn-primary{
+  padding: 0.4rem 0.6rem;
+}
+
 
 
 /* =============================
