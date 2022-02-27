@@ -177,6 +177,32 @@ section#skills div.skill div.progress-bar{
   background-color: rgb(200, 118, 255);
 }
 
+section#skills div.service-icons{
+  position:relative
+}
+
+section#skills div.service-icon{
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 50%;
+  max-width: 8rem;
+  max-height: 8rem;
+  
+}
+
+section#skills div.service-icon img.service-img{
+  max-width: 4rem;
+  max-height: 4rem;
+}
+
+section#skills div#icon-UI{
+  margin-left: 20rem!important;
+}
+
+section#skills div#icon-API {
+  margin-left: 15rem !important;
+}
+
+
 /* =============================
 SECTION: SERVICES
 ================================*/
@@ -185,16 +211,17 @@ section#services{
   color: rgb(255, 255, 255);
 }
 
+
 /* =============================
 SECTION: WORK
 ================================*/
 section#work{
-  background-color: rgb(1, 1, 8);
+  background-color: rgb(1, 1, 8, 0.9);
   color: rgb(255, 255, 255);
 }
 
 section#work div.card{
-  background-color: rgb(1, 1, 8);
+  background-color: rgb(1, 1, 8, 0.9);
 }
 
 section#work div.card{
@@ -215,7 +242,6 @@ section#work div.card a.btn-primary{
 
 section#work div.card-img{
   padding: 2rem 0;
-  background-color: rgba(255, 255, 255, 0.1);
   border-top-left-radius: 1.5rem;
   border-top-right-radius: 1.5rem;
 }
@@ -231,7 +257,7 @@ section#work div.card-img i{
 SECTION: CONTACT
 ================================*/
 section#contact{
-  background-color: rgba(1, 1, 8, 0.9);
+  background-color: rgba(1, 1, 8);
   color: rgb(255, 255, 255);
   
 }
@@ -248,7 +274,7 @@ section#contact div.social-media i:hover{
 SECTION: COPYRIGHT
 ================================*/
 section#copyright{
-  background-color: rgb(1, 1 ,8);
+  background-color: rgb(1, 1 ,8, 0.9);
   color: rgb(255, 255, 255);
   padding: 0.02rem 0;
 }
