@@ -6,7 +6,7 @@ body{
 SECTION: UTILITIES
 ================================*/
 .btn{
-  padding: 0.8rem 0.9rem;
+  padding: 0.8rem 1.5rem;
   border-radius: 50rem;
 }
 
@@ -215,7 +215,7 @@ section#work div.card h5.card-title {
 }
 
 section#work div.card a.btn-primary{
-  padding: 0.4rem 0.6rem;
+  padding: 0.4rem 1rem;
 }
 
 section#work div.card-img{
@@ -307,7 +307,7 @@ SECTION: MEDIA QUERIES
   }
 
   section#work div.card-img i {
-    font-size: 7rem;
+    font-size: 6rem;
   }
 }
 
