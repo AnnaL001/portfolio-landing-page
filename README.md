@@ -5,9 +5,9 @@
 The website entails detailed information regarding my qualifications such as education and job experience, technical skills. It also includes other personal information such as my hobbies and interests, details of personal projects that I have done in a bid to hone my skills and my contact information such as email and my social media accounts inclusive of GitHub.
 ## Setup/Installation Requirements
 * Using a mobile/laptop device ensure you have internet access. 
-* Navigate to the link below via browsers such as Chrome, Edge, Mozilla Firefox and Safari<br/>
-**Link to live site**: https://annal001.github.io/portfolio-landing-page/
-![An image of the website]https://github.com/AnnaL001/portfolio-landing-page/images/website.png
+* Navigate to the link below via browsers such as Chrome, Edge, Mozilla Firefox and Safari<br>
+**Link to live site**: https://annal001.github.io/portfolio-landing-page/ <br>
+!An image of the website https://github.com/AnnaL001/portfolio-landing-page/images/website.png
 ## Technologies Used
 Frontend languages and framework such as:
 * HTML - For structuring elements in the web page such as images, text, buttons and links
