@@ -1,21 +1,21 @@
-body{
+body {
   font-family: 'Poppins', 'sans-serif';
 }
 
 /* =============================
 SECTION: UTILITIES
 ================================*/
-.btn{
+.btn {
   padding: 0.8rem 1.5rem;
   border-radius: 50rem;
 }
 
-.btn-primary{
+.btn-primary {
   background-color: rgb(200, 118, 255);
   border-color: rgb(200, 118, 255);
 }
 
-.btn-primary:hover{
+.btn-primary:hover {
   background-color: rgba(200, 118, 255,0.8);
   border-color: rgba(200, 118, 255, 0.8);
 }
@@ -44,32 +44,32 @@ SECTION: UTILITIES
   box-shadow: 0 0 0 0.25rem rgba(200, 118, 255, 0.5);
 }
 
-.text-bold{
+.text-bold {
   font-weight: 700;
   font-size: 5rem;
 }
 
-.text-semi-bold{
+.text-semi-bold {
   font-weight: 600;
   font-size: 2.8rem;
 }
 
-.text-medium{
+.text-medium {
   font-weight: 600;
   font-size: 1.5rem;
 }
 
-.para{
+.para {
   line-height: 1.8rem;
 }
 
-.text-button{
+.text-button {
   border: none;
   background-color: rgb(1, 1 ,8);
   color: white;
 }
 
-.text-button:hover{
+.text-button:hover {
   color: rgb(200, 118, 255);
 }
 
@@ -77,25 +77,25 @@ SECTION: UTILITIES
 /* =============================
 SECTION: NAVBAR
 ================================*/
-nav.bg-nav{
+nav.bg-nav {
   background-color: rgb(1, 1 ,8);
 }
 
-nav button.navbar-toggler{
+nav button.navbar-toggler {
   border-radius: 50%;
   padding: 0.30rem 0.50rem;
   font-size: 1.20rem;
 }
 
-nav ul.navbar-nav{
+nav ul.navbar-nav {
   padding: 0.5rem 4rem;
 }
 
-nav ul.navbar-nav li.nav-item{
+nav ul.navbar-nav li.nav-item {
   margin-right: 2rem;
 }
 
-nav ul.navbar-nav li.nav-item a.active{
+nav ul.navbar-nav li.nav-item a.active {
   border: 1px solid rgb(200, 118, 255);
   border-radius: 50rem;
   padding-left: 1rem;
@@ -103,7 +103,7 @@ nav ul.navbar-nav li.nav-item a.active{
   color: rgb(200, 118, 255)!important;
 }
 
-nav ul.navbar-nav li.nav-item a:hover{
+nav ul.navbar-nav li.nav-item a:hover {
   color: rgb(200, 118, 255) !important;
 }
 
@@ -111,49 +111,49 @@ nav ul.navbar-nav li.nav-item a:hover{
 /* =============================
 SECTION: MAIN
 ================================*/
-main section{
+main section {
   padding: 4rem 0;
 }
 
 /* =============================
 SECTION: INTRO
 ================================*/
-section#intro{
+section#intro {
   background-color: rgb(1, 1, 8);
   padding-top: 4rem;
   padding-bottom: 0;
   color: rgb(255,255,255);
 }
 
-section#intro div.part-text button{
+section#intro div.part-text button {
   margin: 2rem 0;
 }
 
 /* =============================
 SECTION: ABOUT ME
 ================================*/
-section#about-me{
+section#about-me {
   background-color: rgba(1, 1, 8, 0.9);
   color: rgb(255, 255, 255);
 }
 
-section#about-me div.part-image img{
+section#about-me div.part-image img {
   float: left;
 }
 
 /* =============================
 SECTION: INTERESTS AND HOBBIES
 ================================*/
-section#interests-hobbies{
+section#interests-hobbies {
   background-color: rgba(1, 1, 8, 0.9);
   color: rgb(255, 255, 255);
 }
 
-section#interests-hobbies div#interests-hobbies{
+section#interests-hobbies div#interests-hobbies {
   justify-content: center;
 }
 
-section#interests-hobbies div.hobby{
+section#interests-hobbies div.hobby {
   text-align: center;
 }
 
@@ -167,24 +167,24 @@ section#interests-hobbies div.hobby i{
 /* =============================
 SECTION: SKILLS AND SERVICES
 ================================*/
-section#skills-and-services{
+section#skills-and-services {
   background-color: rgb(1, 1 ,8);
   color: rgb(255,255,255);
 }
 
-section#skills-and-services div.skill div.progress{
+section#skills-and-services div.skill div.progress {
   height: 1.5rem;
   border-radius: 50rem;
 }
 
-section#skills-and-services div.skill div.progress-bar{
+section#skills-and-services div.skill div.progress-bar {
   background-color: rgb(200, 118, 255);
 }
 
 /* =============================
 SECTION: SERVICES
 ================================*/
-section#services{
+section#services {
   background-color: rgba(1, 1, 8, 0.9);
   color: rgb(255, 255, 255);
 }
@@ -193,16 +193,16 @@ section#services{
 /* =============================
 SECTION: WORK
 ================================*/
-section#work{
+section#work {
   background-color: rgb(1, 1, 8, 0.9);
   color: rgb(255, 255, 255);
 }
 
-section#work div.card{
+section#work div.card {
   background-color: rgb(1, 1, 8, 0.9);
 }
 
-section#work div.card{
+section#work div.card {
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 1.5rem;
   box-shadow: 0.13rem 0.13rem rgba(255, 255, 255, 0.1);
@@ -214,17 +214,17 @@ section#work div.card h5.card-title {
   font-size: 1rem;
 }
 
-section#work div.card a.btn-primary{
+section#work div.card a.btn-primary {
   padding: 0.4rem 1rem;
 }
 
-section#work div.card-img{
+section#work div.card-img {
   padding: 2rem 0;
   border-top-left-radius: 1.5rem;
   border-top-right-radius: 1.5rem;
 }
 
-section#work div.card-img i{
+section#work div.card-img i {
   color: rgb(255,255,255);
   font-size: 8rem;
 }
@@ -234,24 +234,24 @@ section#work div.card-img i{
 /* =============================
 SECTION: CONTACT
 ================================*/
-section#contact{
+section#contact {
   background-color: rgba(1, 1, 8);
   color: rgb(255, 255, 255);
   
 }
 
-section#contact div.social-media i{
+section#contact div.social-media i {
   font-size: 3rem;
 }
 
-section#contact div.social-media i:hover{
+section#contact div.social-media i:hover {
   color: rgb(200, 118, 255) !important;
 }
 
 /* =============================
 SECTION: COPYRIGHT
 ================================*/
-section#copyright{
+section#copyright {
   background-color: rgb(1, 1 ,8, 0.9);
   color: rgb(255, 255, 255);
   padding: 0.02rem 0;
@@ -260,33 +260,33 @@ section#copyright{
 /* =============================
 SECTION: MEDIA QUERIES
 ================================*/
-@media screen and (max-width: 578px){
+@media screen and (max-width: 578px) {
   /* =============================
     SECTION: UTILITIES
   ================================*/
-  .text-bold{
+  .text-bold {
     font-weight: 700;
     font-size: 3.5rem;
   }
 
-  .text-semi-bold{
+  .text-semi-bold {
     font-weight: 600;
     font-size: 2rem;
   }
 
-  .row{
+  .row {
     text-align: center;
   }
 
-  .col-12, .col-6{
+  .col-12, .col-6 {
     margin-top: 1.5rem;
   }
 
-  main section{
+  main section {
     padding: 3rem 0;
   }
 
-  section#about-me div.part-image img{
+  section#about-me div.part-image img {
     float: none;
   }
 
@@ -295,7 +295,7 @@ SECTION: MEDIA QUERIES
   }
 }
 
-@media screen and (min-width: 577px) and (max-width: 1200px){
+@media screen and (min-width: 577px) and (max-width: 1200px) {
   .text-bold {
     font-weight: 700;
     font-size: 3.5rem;
