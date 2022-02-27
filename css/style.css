@@ -206,8 +206,7 @@ SECTION: COPYRIGHT
 section#copyright {
   background-color: rgb(1, 1 ,8);
   color: rgb(255, 255, 255);
-  padding-top: 0.4rem;
-  padding-bottom: 0.4rem;
+  padding: 0.02rem 0;
 }
 
 /* =============================
