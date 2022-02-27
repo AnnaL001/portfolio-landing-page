@@ -190,6 +190,26 @@ section#work div.card{
   background-color: rgb(1, 1, 8);
 }
 
+
+/* =============================
+SECTION: CONTACT
+================================*/
+section#contact{
+  background-color: rgba(1, 1, 8, 0.9);
+  color: rgb(255, 255, 255);
+  
+}
+
+/* =============================
+SECTION: COPYRIGHT
+================================*/
+section#copyright {
+  background-color: rgb(1, 1 ,8);
+  color: rgb(255, 255, 255);
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
 /* =============================
 SECTION: MEDIA QUERIES
 ================================*/
