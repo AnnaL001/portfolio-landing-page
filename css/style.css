@@ -199,6 +199,7 @@ section#work div.card{
 
 section#work div.card{
   border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 1.5rem;
   box-shadow: 0.13rem 0.13rem rgba(255, 255, 255, 0.1);
   z-index: 2;
 }
@@ -210,6 +211,18 @@ section#work div.card h5.card-title {
 
 section#work div.card a.btn-primary{
   padding: 0.4rem 0.6rem;
+}
+
+section#work div.card-img{
+  padding: 2rem 0;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-top-left-radius: 1.5rem;
+  border-top-right-radius: 1.5rem;
+}
+
+section#work div.card-img i{
+  color: rgb(255,255,255);
+  font-size: 8rem;
 }
 
 
@@ -272,6 +285,10 @@ SECTION: MEDIA QUERIES
   section#about-me div.part-image img{
     float: none;
   }
+
+  section#work div.card-img i {
+    font-size: 6rem;
+  }
 }
 
 @media screen and (min-width: 577px) and (max-width: 1200px){
@@ -283,6 +300,10 @@ SECTION: MEDIA QUERIES
   .text-semi-bold {
     font-weight: 600;
     font-size: 2rem;
+  }
+
+  section#work div.card-img i {
+    font-size: 7rem;
   }
 }
 
