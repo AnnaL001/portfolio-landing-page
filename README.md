@@ -7,7 +7,7 @@ The website entails detailed information regarding my qualifications such as edu
 * Using a mobile/laptop device ensure you have internet access. 
 * Navigate to the link below via browsers such as Chrome, Edge, Mozilla Firefox and Safari<br/>
 **Link to live site**: https://annal001.github.io/portfolio-landing-page/
-![An image of the website](website.png)
+![An image of the website]https://github.com/AnnaL001/portfolio-landing-page/images/website.png
 ## Technologies Used
 Frontend languages and framework such as:
 * HTML - For structuring elements in the web page such as images, text, buttons and links
