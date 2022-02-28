@@ -261,9 +261,6 @@ section#copyright {
 SECTION: MEDIA QUERIES
 ================================*/
 @media screen and (max-width: 578px) {
-  /* =============================
-    SECTION: UTILITIES
-  ================================*/
   .text-bold {
     font-weight: 700;
     font-size: 3.5rem;
