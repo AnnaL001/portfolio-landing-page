@@ -12,7 +12,7 @@ Some of the images used in the website, were fetched from the internet. They inc
 * mobile-development.png : https://www.flaticon.com/free-icons/app-development (App-development icons created by Icon home - Flaticon)
 ## Setup/Installation Requirements
 * Using a mobile/laptop device ensure you have internet access. 
-* Navigate to the link below via browsers such as Chrome, Edge, Mozilla Firefox and Safari<br>
+* Navigate to the link below via browsers such as Chrome, Edge, Mozilla Firefox or Safari<br>
 **Link to live site**: https://annal001.github.io/portfolio-landing-page/ <br>
 ## Technologies Used
 Frontend languages and framework such as:
