@@ -3,6 +3,7 @@
 #### By **Lynn Nyangon**
 ## Description
 The website entails detailed information regarding my qualifications such as education, job experience, technical skills and services that I can offer. It also includes other personal information such as my hobbies and interests, details of personal projects that I have done in a bid to hone my skills and my contact information such as email and my social media accounts inclusive of GitHub.
+**Link to the Design (Figma)**: https://www.figma.com/file/Kwq9dfxaqpUv1UzyVuGd4Y/Portfolio-Website?node-id=0%3A1
 Some of the images used in the website, were fetched from the internet. They include:
 * female-dev.png : https://www.cleanpng.com/png-test-automation-software-testing-programmer-comput-4379177/
 * website-design.png : https://www.flaticon.com/free-icons/website-design (Website design icons created by srip)
