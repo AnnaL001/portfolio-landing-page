@@ -9,8 +9,7 @@ Some of the images used in the website, were fetched from the internet. They inc
 * api.png : https://www.flaticon.com/free-icons/api (Api icons created by Freepik)
 * database.png : https://www.flaticon.com/free-icons/database (Database icons created by Freepik - Flaticon)
 * web-development.png : https://www.flaticon.com/free-icons/development (Development icons created by Freepik - Flaticon)
-* mobile-development.png : https://www.flaticon.com/free-icons/app-development (App-development icons created by Icon home - Flaticon) <br>
-**Link to the Design (Figma)**: https://www.figma.com/file/Kwq9dfxaqpUv1UzyVuGd4Y/Portfolio-Website?node-id=0%3A1
+* mobile-development.png : https://www.flaticon.com/free-icons/app-development (App-development icons created by Icon home - Flaticon) 
 ## Setup/Installation Requirements
 * Using a mobile/laptop device ensure you have internet access. 
 * Navigate to the link below via browsers such as Chrome, Edge, Mozilla Firefox or Safari<br>
