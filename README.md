@@ -12,7 +12,10 @@ Some of the images used in the website, were fetched from the internet. They inc
 * mobile-development.png : https://www.flaticon.com/free-icons/app-development (App-development icons created by Icon home - Flaticon) 
 ## Setup/Installation Requirements
 * Using a mobile/laptop device ensure you have internet access. 
-* Navigate to the link below via browsers such as Chrome, Edge, Mozilla Firefox or Safari<br>
+* To get the website's code onto your GitHub, you can fork the repository by pressing the 'Fork' button in the main page of this repository
+* To get the website's code onto your local machine you can navigate to the 'Code' button on the main page of this repository to clone this repository locally via the provided link or download the ZIP folder.
+* Once in your local machine, you can view the code using text editors
+* Otherwise, to view the website, navigate to the link below via browsers such as Chrome, Edge, Mozilla Firefox or Safari<br>
 **Link to live site**: https://annal001.github.io/portfolio-landing-page/ <br>
 ## Technologies Used
 Frontend languages and framework such as:
