@@ -3,14 +3,14 @@
 #### By **Lynn Nyangon**
 ## Description
 The website entails detailed information regarding my qualifications such as education, job experience, technical skills and services that I can offer. It also includes other personal information such as my hobbies and interests, details of personal projects that I have done in a bid to hone my skills and my contact information such as email and my social media accounts inclusive of GitHub.<br>
-**Link to the Design (Figma)**: https://www.figma.com/file/Kwq9dfxaqpUv1UzyVuGd4Y/Portfolio-Website?node-id=0%3A1
 Some of the images used in the website, were fetched from the internet. They include:
 * female-dev.png : https://www.cleanpng.com/png-test-automation-software-testing-programmer-comput-4379177/
 * website-design.png : https://www.flaticon.com/free-icons/website-design (Website design icons created by srip)
 * api.png : https://www.flaticon.com/free-icons/api (Api icons created by Freepik)
 * database.png : https://www.flaticon.com/free-icons/database (Database icons created by Freepik - Flaticon)
 * web-development.png : https://www.flaticon.com/free-icons/development (Development icons created by Freepik - Flaticon)
-* mobile-development.png : https://www.flaticon.com/free-icons/app-development (App-development icons created by Icon home - Flaticon)
+* mobile-development.png : https://www.flaticon.com/free-icons/app-development (App-development icons created by Icon home - Flaticon) <br>
+**Link to the Design (Figma)**: https://www.figma.com/file/Kwq9dfxaqpUv1UzyVuGd4Y/Portfolio-Website?node-id=0%3A1
 ## Setup/Installation Requirements
 * Using a mobile/laptop device ensure you have internet access. 
 * Navigate to the link below via browsers such as Chrome, Edge, Mozilla Firefox or Safari<br>
